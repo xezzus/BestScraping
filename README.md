@@ -1,7 +1,6 @@
 # BestScraping
 
-## Install
-```git clone https://github.com/xezzus/BestScraping.git```
+
 
 ## Start
 
