@@ -1,8 +1,13 @@
 # BestScraping
 
 ## Install
+```git clone https://github.com/xezzus/BestScraping.git```
+
+## Start
 
 ```docker-compose up -d```
+## Stop
+```docker-compose down```
 
 ## Getting started
 
