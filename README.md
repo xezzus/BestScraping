@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/docker/pulls/redbitterredish/getsite)
 ![](https://img.shields.io/docker/image-size/redbitterredish/getsite)
+![](https://img.shields.io/docker/stars/redbitterredish/getsite)
 
 ## Start
 
