@@ -2,7 +2,7 @@ version: '3'
 
 services:
   getsite:
-    image: redbitterredish/getsite:latest
+    image: redbitterredish/bestscraping:latest
     ports:
       - 127.0.0.1:9001:9001
     restart: always
