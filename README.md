@@ -1,9 +1,9 @@
 # BestScraping
 
-![](https://img.shields.io/docker/pulls/redbitterredish/getsite)
-![](https://img.shields.io/docker/image-size/redbitterredish/getsite?sort=date)
-![](https://img.shields.io/docker/stars/redbitterredish/getsite)
-![](https://img.shields.io/docker/v/redbitterredish/getsite?sort=date)
+![](https://img.shields.io/docker/pulls/redbitterredish/bestscraping)
+![](https://img.shields.io/docker/image-size/redbitterredish/bestscraping?sort=date)
+![](https://img.shields.io/docker/stars/redbitterredish/bestscraping)
+![](https://img.shields.io/docker/v/redbitterredish/bestscraping?sort=date)
 
 ![](https://raw.githubusercontent.com/xezzus/BestScraping/master/BestScraping.png)
 
